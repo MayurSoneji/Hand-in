@@ -29,13 +29,13 @@ And Git Repo [Here](https://github.com/Mhossain360/FLAG-3/blob/master/Presentati
 
 This project was great as I had to work with Illustrator to create typographic posters for tweets.
 
-And Git Repo [Here](http://fourthfloor.raveweb.net/msoneji/2016/10/20/onetweet/)
+And Git Repo [Here](https://github.com/MayurSoneji/Typography/blob/master/To%20Present.md)
 
 ### Code On Your Plate
 
 I hadn't had any prior experience with HTML or CSS, this project allowed me to get a grasp of how to use HTML and CSS to make a design.
 
-And Git Repo [Here](https://thimbleprojects.org/msoneji/145145/)
+And Thimble [Here](https://thimbleprojects.org/msoneji/145145/)
 
 Source files [Here](https://github.com/MayurSoneji/Recipe/tree/master/HTML%20and%20CSS)
 
@@ -43,7 +43,7 @@ Source files [Here](https://github.com/MayurSoneji/Recipe/tree/master/HTML%20and
 
 I had to explain how people design things to make them look clickable, much like a button. I had gone and done my research and made it interesting by asking the audience what makes them click a button.
 
-Git Repo [Here](http://fourthfloor.raveweb.net/msoneji/2016/12/04/css-tricks/)
+Git Repo [Here](https://github.com/MayurSoneji/CSS-buttons)
 
 
 ### Blog Posts
