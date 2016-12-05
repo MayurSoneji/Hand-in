@@ -1,136 +1,85 @@
-# Summative
+# WEB14103 / Mayur Soneji
 
-**Welcome to my Summative Presentation. I have tried to compile my most compelling pieces of work which we have completed in this first term.**
+## Info
 
-#### Table of Contents
+**Name:** Mayur Soneji
 
-* Union Hack
-* OneTweet
-* EyeBombing
+**Student Number:** 96455016
 
-## Union Hack
+**Course:** WEB14103
 
-**What is this about?**
+### Introduction
 
-**This project was all about flags. Flags play an important role in the recognition of countries. As a designer, we are always tasked with creative briefs, although an irregular task, the flag design is out of my personal comfort zone. We were tasked to edit an original flag and produce four variations. After the variations, we were tasked to create a fictional flag for anything we would like.**
+This package will take you to all of the things I ad created from the start of the term to the end. Overall the term wa great and is a great start to the three years I will be staying at Ravensbourne.
 
-### Research on Turkey's Flag
+### Eye Bombing
 
-![Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png "Flag")
+The Eyebombing was a great idea to show us how to look at objects to see something else, in this case, faces within objects.
 
-The flag is often called al bayrak (the red flag) and referred to as al sancak (the red banner) in the Turkish national anthem.
+And Git Repo [Here](https://github.com/EmptyRave/EyeBombing/blob/master/Eyebombing%20Pres.md)
 
-Red is the primary colour in the flag, red means: love, emotion, blood, passion, power, danger and is a strong colour in Islam and China (good luck). Obviously Turkey haven't used red for all of these representations however they have used it for most.
+### Union Hack
 
-The crescent is also supposed to be an iconic symbol in Islam as they follow the moon calendar.
+I really enjoyed looking at flags and just how complex they are, the thought that goes behind creating a flag is incredible and this project really helped me see flags differently and helped me with how I design!
 
-### Elments Rotated And Elements Copied
+And Git Repo [Here](https://github.com/Mhossain360/FLAG-3/blob/master/Presentation.md)
 
-![Rotation](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Turkey-Support-(Flag).png "Rotation")
 
-In this variation of the flag I had editted the star and crescent to be a representation of a parachute and star. I was trying to show Turkey to be supportive even if someone is falling fast. I have also added two stars in the back to aid the support theory. Turkey had also had a few crisis and the country had shown support to one an another.
+### One Tweet
 
-### Flag Colour Changed
+This project was great as I had to work with Illustrator to create typographic posters for tweets.
 
-![Colour](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/B%26W.png "Colour")
+And Git Repo [Here](http://fourthfloor.raveweb.net/msoneji/2016/10/20/onetweet/)
 
-I have used black and white becuase I wanted to represent day and night. In addition, they both have great properties that I would like to represent, white is a symbol of innocence, honesty and purity. Black is associated with power and strength. HOWEVER, a lot of people associate black with death.
+### Code On Your Plate
 
-Knowing that majority of the Turkish population are primarily Islamic, I wanted to show day and night, Ramadan signifies what you can and cannot do during the day, and during the night.
+I hadn't had any prior experience with HTML or CSS, this project allowed me to get a grasp of how to use HTML and CSS to make a design.
 
-### Fictional Flags
+And Git Repo [Here](https://thimbleprojects.org/msoneji/145145/)
 
-I wanted to create a fictional country, where it would be full of designers. For this I had to do research on what colours would represent what I would like them to. I wanted to implement creativity, wealth, passion and independence. A combination of red, purple, and blue gives luxury and elegance which is skills a designer has.
+Source files [Here](https://github.com/MayurSoneji/Recipe/tree/master/HTML%20and%20CSS)
 
-Orange was also a colour that came to mind as it represents creativity, joy, creativity and enthusiasm.
+### CSS Tricks
 
-I wanted to impliment white somehow so I though about what symbol I can use and decided to make that white as it contrasts in a distance. White represents perfection which is what a designer should aim for.
+I had to explain how people design things to make them look clickable, much like a button. I had gone and done my research and made it interesting by asking the audience what makes them click a button.
 
-I used a light bulb as it generally symbolises an idea.
+Git Repo [Here](http://fourthfloor.raveweb.net/msoneji/2016/12/04/css-tricks/)
 
-![Bad](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag.png "Bad")
 
-I didnt like the flag too much so I thought of another idea.
+### Blog Posts
 
-In this idea I used the same colours in a different way, rather than solid colours, I used a gradient which looked appealing incorporating all of the ideas in a simple way. I used a white background. I thought of adding the brain to be orange for the creativity.
+- [EyeBombing](http://fourthfloor.raveweb.net/msoneji/2016/10/11/eyebombing/)
 
-I then thought to add a pencil to illustrate the flag being drawn to represent development.
+- [OneTweet](http://fourthfloor.raveweb.net/msoneji/2016/10/20/onetweet/)
 
-![Fixed](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag-fixed.png "Fixed")
+- [Union Hack](http://fourthfloor.raveweb.net/msoneji/2016/10/30/union-hack/)
 
-Upon feedback the colour scheme was too dull so I brightened it up as if it were representing the mood. The colours are a different shade making it brighter and more visually appealing. I still kept the original colours based on the reasons previously mentioned. The light bulb is also the same concept based on the idea of an idea.
+- [Formative](http://fourthfloor.raveweb.net/msoneji/2016/11/21/formative-assessment/)
 
-![Good](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Good-Flag.png "Good")
+- [Peer Learning](http://fourthfloor.raveweb.net/msoneji/2016/11/21/peer-learning/)
 
-However with some feedback, some people did not like this idea however I am still proud to have created this simple idea and have also worked on the idea that I had gotten feedback for.
+- [The Webs Grain](http://fourthfloor.raveweb.net/msoneji/2016/12/04/the-webs-grain/)
 
-## OneTweet
+- [Code On Your Plate](http://fourthfloor.raveweb.net/msoneji/2016/12/04/code-on-your-plate/)
 
-**What is this project?**
+- [CSS Tricks](http://fourthfloor.raveweb.net/msoneji/2016/12/04/css-tricks/)
 
-**The project consisted of playing with typography, taking inspiration from the Bauhaus movement. There was a set table of tweets we could visualise in some way. Below is a few tweets I had chosen to visualise.**
+### Git Projects
 
-### Can You Hear Me Now?
+- [EyeBombing](https://github.com/EmptyRave/EyeBombing/blob/master/Eyebombing%20Pres.md)
 
-![Ear 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Can-You-Hear-me-old.png "Ear 1")
+- [OneTweet](https://github.com/MayurSoneji/Typography/blob/master/To%20Present.md)
 
-This is the idea I had at first, upon review, it was hard to see the quote. I had thought of a way to try and make sure the message would be clear when people read the quote. The process I took to make this idea was first writing the "Can your hear me now?" in the block shape that you can see here. I then made it into a pattern, drew a square and applied the pattern to the shape. I then enlarged the quote and made it white to fit in with the background.
+- [Union Hack](https://github.com/Mhossain360/FLAG-3/blob/master/Presentation.md)
 
-![Ear 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Can-You-Hear-me-NEW.png "Ear 2")
+- [Code On Your Plate](https://thimbleprojects.org/msoneji/145145/)
 
-I had thought of a way to make this better and it was to thicken the quote up to make it contrast more to the background.
+- [Code On Your Plate Source Files](https://github.com/MayurSoneji/Recipe/tree/master/HTML%20and%20CSS)
 
-### Can You Hear Me Now? _Ear_
+- [CSS Tricks](https://github.com/MayurSoneji/CSS-buttons)
 
-![Ear 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ear---Can-you-hear-me-1.png "Ear 1")
+- [Visual Perception Principles](https://github.com/MayurSoneji/WebDesignPrinciples/blob/master/Presentation.md)
 
-The idea is straightforward here, its type on a path in the shape of an ear. I did this by using the pen tool to make the overall shape of the ear, then I used the type on the path tool which adjusted to the shape of the ear.
+### Summative Presentation
 
-![Ear 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ear---Can-you-hear-me-2.png "Ear 2")
-
-Upon reflecting, some people did not see it as an ear so I added a little bit more detail which gave more definition that it is an ear.
-
-### Ed Balls
-
-![Ed Balls 1](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-1.png "Ed Balls 1")
-
-This was just me experimenting the typography which has no real meaning, it was my base.
-
-![Ed Balls 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-2.png "Ed Balls 2")
-
-I tried to use negative space however it was not relevant to the quote.
-
-![Ed Balls 3](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-3.png "Ed Balls 3")
-
-Upon doing research, I had found out a way to make what I made more relevant. I had found out that Ed Balls tweeted his name as a mistake, I tried to signify this by showing portions of the text missing, as if someone was rubbing the name out. In Twitter terms, delete the post.
-
-![Ed Balls 4](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-4.gif "Ed Balls 4")
-
-Given feedback based on my previous idea, some people could not see it as it being rubbed out therefore I tried another approach, I still prefer the first one because when people rub things out, it is generally messy. This idea still shows the quote and it masks out some of the name.
-
-## EyeBombing
-
-**What is this about?**
-
-**This task was to find faces within objects, although this sounds weird, it was a handy task as it makes you aware of the objects around you.**
-
-### Water Well
-
-![Water Well](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_141024_(Custom).jpg "Water Well")
-
-This is one of the better images because of the positioning of the well key holes. The face looks as if it is taken to the side, not positioned looking staright at the camera, instead looking in the distance at an object in the distance.
-
-### Train Door Switch
-
-![Train](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_160444_(Custom).jpg "Train")
-
-This was taken on the train. The eyes are the two arrows which can be represented as happiness. The "Open" being the mouth. The rounded rectangle shows the perimeter of the face.
-
-### Bike
-
-![Bike](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140544_(Custom).jpg "Bike")
-
-The face is seen in this image. The cycle represent the eyes, the connection between the eyes can be the bridge of glasses, therefore it can be an accessory. The pavement texture can be the mouth which has emotion of being frustrated.
-
-
-# Thank you for listening to my presentation, and I hope you have liked my work.
+Click [Here](https://github.com/MayurSoneji/Summative/blob/master/Summative.md) to view my formative presentation!
